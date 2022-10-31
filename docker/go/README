@@ -1,0 +1,21 @@
+# Desafio 1 Docker GO
+**By Fabio Marsiaj**
+
+Passo 1: 
+    Dê um 'docker pull fabioqmarsiaj/go-challange'
+
+Passo 2:
+    No terminal:
+        'docker run fabioqmarsiaj/go-challange'
+
+Link do DockerHub:
+https://hub.docker.com/repository/docker/fabioqmarsiaj/go-challange
+
+
+**Fabio Quinto Marsiaj** -  [GitHub](https://github.com/fabioqmarsiaj)
+
+   <a href="https://github.com/fabioqmarsiaj">
+        <img 
+        alt="Imagem do Autor Fabio Marsiaj" src="https://avatars0.githubusercontent.com/u/34289167?s=460&v=4" width="100">
+  </a>
+  
